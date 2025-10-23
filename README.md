@@ -1,25 +1,48 @@
-# 🎬 Firebase Video Upload & Player
+# 👋 Hi, I'm Erdem Alkan
 
-![Header Image](https://img.icons8.com/color/96/video.png)
+![Profile Banner](https://img.icons8.com/color/96/code.png)
 
-Bu proje, kullanıcıların videolarını **PHP** ile **Firebase Realtime Database** üzerine yüklemesini sağlar ve tarayıcı üzerinden parçalı olarak oynatılabilen bir video player sunar.  
-
-Videolar **1 MB veya istenilen boyutta parçalara** bölünür, Base64 olarak Firebase’e kaydedilir ve tarayıcıda Blob üzerinden oynatılır. Sunucuda **hiçbir video kalmaz**, tüm yükleme doğrudan Firebase’e yapılır.
+I am a 15-year-old software enthusiast with about **5 years of experience** in software development. The first 2 years were quite amateur, so I consider myself a **3-year experienced developer**.  
 
 ---
 
-## 🚀 Özellikler
+## 💻 My Expertise
 
-- 🔹 **Hatalı yükleme önleme:** Videolar parçalanarak yüklenir, büyük dosyalar için ideal  
-- 🔹 **Firebase Realtime Database:** Basit, güvenli ve sunucusuz veri yönetimi  
-- 🔹 **HTML5 Video Player:** Parçalı videolar otomatik birleştirilir ve oynatılır  
-- 🔹 **URL-Safe Video Adları:** Özel karakterler veya boşluklar otomatik düzeltilir  
-- 🔹 **Sunucu yükü sıfır:** Videolar hiçbir zaman sunucuda depolanmaz  
-- 🔹 **Responsive:** Masaüstü ve mobil tarayıcılar ile uyumlu  
+I focus mainly on **web development**, creating applications and projects using:  
+
+- **Front-End:** HTML, CSS, JavaScript  
+- **Back-End:** PHP, SQL, JSON  
+- **Other Languages & Tools:** Python  
+
+I can develop full-stack web applications, web design projects, and also management systems using Python.  
 
 ---
 
-## 📂 Firebase Yapısı
+## 🔧 Skills
 
-Videolar Firebase’e şu şekilde kaydedilir:
+| Front-End | Back-End | Other |
+|-----------|----------|-------|
+| HTML      | PHP      | Python |
+| CSS       | SQL      | JSON   |
+| JavaScript|          |        |
 
+---
+
+## 🌟 About Me
+
+- Passionate about creating **web applications and projects**  
+- Experienced in both **Front-End and Back-End** development  
+- Always learning and exploring **new technologies**  
+
+---
+
+## 📬 Contact Me
+
+If you have any questions or want to collaborate, feel free to contact me!
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)  
+- **GitHub:** [https://github.com/your-username](https://github.com/your-username)  
+
+---
+
+![Footer Image](https://img.icons8.com/color/96/github.png)
