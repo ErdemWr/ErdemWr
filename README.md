@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Erdem Alkan
 
-![Header Banner](https://img.icons8.com/color/96/code.png)
-
 ### 🚀 About Me
 I'm a 15-year-old **software developer** with ~5 years of experience, mainly in web development. The first 2 years were quite amateur, so I consider myself a **3-year experienced developer**.  
 I love building **web applications, management systems, and interactive projects**.  
