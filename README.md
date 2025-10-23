@@ -49,7 +49,12 @@ I love building **web applications, management systems, and interactive projects
 
 ## 📫 Contact Me
 
-- **Email:** [erdem@example.com](mailto:erdem@example.com)  
-- **GitHub:** [github.com/erdemalkan](https://github.com/erdemalkan)  
+| Platform | Link |
+|----------|------|
+| 📧 Email | [erdem.sural@yahoo.com](mailto:erdem.sural@yahoo.com) |
+| 📸 Instagram | [@erdem.rw](https://www.instagram.com/erdem.rw/) |
+| 💬 WhatsApp | [Send Message](https://wa.me/84563416379) |
 
 ---
+
+![Footer](https://img.icons8.com/color/96/github.png)
