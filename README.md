@@ -55,5 +55,3 @@ I love building **web applications, management systems, and interactive projects
 - **GitHub:** [github.com/erdemalkan](https://github.com/erdemalkan)  
 
 ---
-
-![Footer](https://img.icons8.com/color/96/github.png)
