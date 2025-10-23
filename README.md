@@ -48,6 +48,7 @@ I love building **web applications, management systems, and interactive projects
 ---
 
 ## 📫 Contact Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemalkan&layout=compact&theme=radical)
 
 Platform Link
 
