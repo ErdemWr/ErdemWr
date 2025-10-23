@@ -54,5 +54,5 @@ Platform Link
 📧 Email | [erdem.sural@yahoo.com](mailto:erdem.sural@yahoo.com) 
 📸 Instagram | [@erdem.rw](https://www.instagram.com/erdem.rw/) 
 💬 WhatsApp | [Send Message](https://wa.me/84563416379) 
-📄 Download My CV](https://link-to-your-cv.com)
+📄 [Download My CV](https://link-to-your-cv.com)
 
