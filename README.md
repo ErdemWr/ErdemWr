@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Erdem Alkan
 
+![Header Banner](https://img.icons8.com/color/96/code.png)
+
 ### 🚀 About Me
-I'm a 15-year-old **software developer** with ~5 years of experience, mainly in web development. The first 2 years were quite amateur, so I consider myself a **3-year experienced developer**.  
-I love building **web applications, management systems, and interactive projects**.  
+I'm a 15-year-old **software developer** with ~5 years of experience, mainly in web development.  
+The first 2 years were amateur, so I consider myself a **3-year experienced developer**.  
+
+I build **web applications, management systems, e-commerce platforms**, and also have experience in **digital marketing** for social media platforms.  
 
 ---
 
@@ -23,11 +27,21 @@ I love building **web applications, management systems, and interactive projects
 
 ---
 
-## 🌟 Highlights
-- Full-stack web development (**Front-End + Back-End**)  
-- Web design projects & applications  
-- Python management systems and utilities  
-- Always learning and exploring **new technologies**  
+## 🌟 Digital Marketing Skills
+
+- Social Media Platforms: **Instagram, TikTok, YouTube**  
+- Content Planning & Posting  
+- Analytics & Performance Tracking  
+- Marketing Strategies & Campaign Management  
+
+---
+
+## 🛒 E-Commerce & Web Projects
+
+- Build and maintain **e-commerce websites**  
+- Integrate payment gateways  
+- Develop custom **back-end management systems** for stores  
+- Optimize for **user experience and conversions**  
 
 ---
 
@@ -44,6 +58,12 @@ I love building **web applications, management systems, and interactive projects
 **Python Applications**  
 ███████ 65%
 
+
+**Digital Marketing**  
+████████ 80%
+
+**E-Commerce Development** 
+████████ 85%
 
 ---
 
