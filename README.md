@@ -69,7 +69,6 @@ I build **web applications, management systems, e-commerce platforms**, and also
 
 ## 📫 Contact Me
 
-Platform Link
 
 📧 Email | [erdem.sural@yahoo.com](mailto:erdem.sural@yahoo.com) 
 📸 Instagram | [@erdem.rw](https://www.instagram.com/erdem.rw/) 
