@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🎬 Firebase Video Upload & Player
 
-<!--
-**rubswq/rubswq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](https://img.icons8.com/color/96/video.png)
 
-Here are some ideas to get you started:
+Bu proje, kullanıcıların videolarını **PHP** ile **Firebase Realtime Database** üzerine yüklemesini sağlar ve tarayıcı üzerinden parçalı olarak oynatılabilen bir video player sunar.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Videolar **1 MB veya istenilen boyutta parçalara** bölünür, Base64 olarak Firebase’e kaydedilir ve tarayıcıda Blob üzerinden oynatılır. Sunucuda **hiçbir video kalmaz**, tüm yükleme doğrudan Firebase’e yapılır.
+
+---
+
+## 🚀 Özellikler
+
+- 🔹 **Hatalı yükleme önleme:** Videolar parçalanarak yüklenir, büyük dosyalar için ideal  
+- 🔹 **Firebase Realtime Database:** Basit, güvenli ve sunucusuz veri yönetimi  
+- 🔹 **HTML5 Video Player:** Parçalı videolar otomatik birleştirilir ve oynatılır  
+- 🔹 **URL-Safe Video Adları:** Özel karakterler veya boşluklar otomatik düzeltilir  
+- 🔹 **Sunucu yükü sıfır:** Videolar hiçbir zaman sunucuda depolanmaz  
+- 🔹 **Responsive:** Masaüstü ve mobil tarayıcılar ile uyumlu  
+
+---
+
+## 📂 Firebase Yapısı
+
+Videolar Firebase’e şu şekilde kaydedilir:
+
